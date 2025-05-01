@@ -1,4 +1,4 @@
-# uplift_prediction
+# Uplift prediction
 1. Data and Methodology
   * Data: Artificially generated purchase data and information from a previous campaign with offer mailings were used.
   * Customer Offer: Discount on the first purchase.
